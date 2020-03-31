@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "discocraft:mirror"
+        }
+    ],
+    "result":
+    {
+        "item": "discocraft:mirror_chip",
+        "count": 9
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "discocraft:dance_floor_on"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

@@ -1,0 +1,28 @@
+itemGroup.DiscoCraft=DiscoCraft
+
+item.discocraft.blank_music_disc.name=Blank Music Disc
+item.discocraft.chisel.name=Chisel
+item.discocraft.mirror.name=Mirror
+item.discocraft.mirror_chip.name=Mirror Chip
+item.discocraft.receiver.name=Receiver
+
+item.discocraft.disco_con_tutti.name=Music Disc
+item.discocraft.disco_lounge.name=Music Disc
+item.discocraft.ether_disco.name=Music Disc
+item.discocraft.overcast.name=Music Disc
+item.discocraft.stringed_disco.name=Music Disc
+item.discocraft.who_likes_to_party.name=Music Disc
+
+Kevin MacLeod
+item.record.disco_con_tutti.desc=Kevin MacLeod - Disco con Tutti
+item.record.disco_lounge.desc=Kevin MacLeod - Disco Lounge
+item.record.ether_disco.desc=Kevin MacLeod - Ether Disco
+item.record.overcast.desc=Kevin MacLeod - Overcast
+item.record.stringed_disco.desc=Kevin MacLeod - Stringed Disco
+item.record.who_likes_to_party.desc=Kevin MacLeod - Who Likes To Party
+
+tile.discocraft.dance_floor.name=Dance Floor
+tile.discocraft.dance_floor_on.name=Dance Floor (On)
+tile.discocraft.disco_ball.name=Disco Ball
+tile.discocraft.inverted_dance_floor.name=Inverted Dance Floor
+tile.discocraft.inverted_dance_floor_on.name=Inverted Dance Floor (On)

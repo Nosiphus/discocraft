@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " y ",
+        "yxy",
+        " y "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "discocraft:blank_music_disc"
+        },
+        "y":
+        {
+            "item": "minecraft:dye",
+			"data": 5
+        }
+    },
+    "result":
+    {
+        "item": "discocraft:disco_con_tutti",
+        "count": 1
+    }
+}

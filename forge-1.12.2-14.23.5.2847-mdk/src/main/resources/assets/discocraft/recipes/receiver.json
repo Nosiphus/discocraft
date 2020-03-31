@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "   ",
+        " x ",
+        "yzy"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:redstone"
+        },
+        "y":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+		"z":
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result":
+    {
+        "item": "discocraft:receiver",
+        "count": 4
+    }
+}

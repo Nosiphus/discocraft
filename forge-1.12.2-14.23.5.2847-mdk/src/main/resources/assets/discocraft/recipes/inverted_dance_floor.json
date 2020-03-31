@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "discocraft:dance_floor"
+		},
+		{
+			"item": "minecraft:redstone_torch"
+		}
+	],
+	"result":
+		{
+			"item": "discocraft:inverted_dance_floor",
+			"data": 0
+		}
+}

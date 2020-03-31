@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "discocraft:blocks/disco_ball_sides",
+    "down": "discocraft:blocks/disco_ball_updown",
+    "up": "discocraft:blocks/disco_ball_updown",
+    "east": "discocraft:blocks/disco_ball_sides",
+    "west": "discocraft:blocks/disco_ball_sides",
+    "north": "discocraft:blocks/disco_ball_sides",
+    "south": "discocraft:blocks/disco_ball_sides"
+  }
+}

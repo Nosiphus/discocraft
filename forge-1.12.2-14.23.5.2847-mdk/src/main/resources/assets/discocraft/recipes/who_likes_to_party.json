@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " y ",
+        "yxy",
+        " y "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "discocraft:blank_music_disc"
+        },
+        "y":
+        {
+            "item": "minecraft:dye",
+			"data": 1
+        }
+    },
+    "result":
+    {
+        "item": "discocraft:who_likes_to_party",
+        "count": 1
+    }
+}

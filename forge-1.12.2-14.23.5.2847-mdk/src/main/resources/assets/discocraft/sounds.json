@@ -1,0 +1,8 @@
+{
+    "disco_con_tutti" : { "sounds" : [ "discocraft:disco_con_tutti"] },
+    "disco_lounge" : { "sounds" : ["discocraft:disco_lounge" ] },
+    "ether_disco": { "sounds": [ "discocraft:ether_disco" ] },
+    "overcast": { "sounds": [ "discocraft:overcast" ] },
+    "stringed_disco" : { "sounds" : [ "discocraft:stringed_disco" ] },
+    "who_likes_to_party" : { "sounds": [ "discocraft:who_likes_to_party" ] }
+}

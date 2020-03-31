@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "discocraft:disco_ball"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

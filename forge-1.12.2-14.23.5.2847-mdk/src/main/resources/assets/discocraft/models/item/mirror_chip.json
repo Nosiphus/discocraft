@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "discocraft:items/mirror_chip"
+  }
+}
